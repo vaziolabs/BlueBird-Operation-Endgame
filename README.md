@@ -2,10 +2,10 @@
 A game design document for a psyop style game
 
 ## 1. Game Overview
-#### Title: 
+### Title: 
 Bluebird: Operation Endgame
 
-#### Genre: 
+### Genre: 
 Real-Time Stealth Espionage + Global Strategy Sim
 
 ### Core Loop:
@@ -19,7 +19,7 @@ Infiltrate → Extract/Convert → Deploy Assets → Destabilize → Advance Glo
  - Non-linear, multi-threaded global storylines
 
 ## 3. Key Systems
-#### a. Stealth Ops
+### a. Stealth Ops
  - Disguises, gadgets, environment manipulation
 
 ##### Target types: 
@@ -28,7 +28,7 @@ civilians, elites, politicians
 ##### Mission types: 
 abduction, blackmail, bugging, assassination
 
-#### b. PsyOps/Conversion
+### b. PsyOps/Conversion
 ##### Subject profiles: 
 resistances, traumas, ideologies
 
@@ -38,21 +38,21 @@ hypnosis, drugs, fabricated identities
 ##### Deployment: 
 sabotage, terrorism, infiltration
 
-#### c. Global Map Interface
+### c. Global Map Interface
 Country-specific crises/events
 
 Mission queuing and asset allocation
 
 Chaos, suspicion, and media influence metrics
 
-#### d. Factions & Contracts
+### d. Factions & Contracts
 Shadow government (internal hierarchy + politics)
 
 External actors (foreign intelligence, corporations, cults)
 
 Side contracts with high risk/reward
 
-#### e. Narrative Engine
+### e. Narrative Engine
 Branching missions + global arcs
 
 Dynamic consequences (media backlash, blowback, agent betrayal)
